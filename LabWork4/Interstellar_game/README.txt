@@ -1,0 +1,1 @@
+Open the game with its .exe .
